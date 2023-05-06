@@ -7,6 +7,12 @@ go mod init github.com/filipe1309/my-go-playground
 ```
 
 ```sh
+go get github.com/filipe1309/my-go-library@latest
+# OR
+go get github.com/filipe1309/my-go-library@v1.1.0
+```
+
+```sh
 go mod tidy
 ```
 
