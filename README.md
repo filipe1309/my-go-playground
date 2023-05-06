@@ -7,7 +7,7 @@
 
 ## 💬 About
 
-This project was developed following 's "[]()" class.
+This is a playground to learn and test Go.
 
 ## :computer: Technologies
 
@@ -30,7 +30,7 @@ cd my-go-playground
 ## :runner: Running
 
 ```sh
-go run ...
+go run main.go
 ```
 
 <!-- ## :white_check_mark: Tests
