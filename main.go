@@ -7,6 +7,6 @@ import (
 )
 
 func main() {
-	mygolib.HelloFrom110()
-	fmt.Println("Hello, World!")
+	mygolib.HelloFromL1v120()
+	fmt.Println("Hello from My Go Playground!")
 }

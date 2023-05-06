@@ -10,6 +10,11 @@ go mod init github.com/filipe1309/my-go-playground
 go get github.com/filipe1309/my-go-library@latest
 # OR
 go get github.com/filipe1309/my-go-library@v1.1.0
+
+go get github.com/filipe1309/my-go-library@v1.2.0   # update
+```
+
+```sh
 ```
 
 ```sh
